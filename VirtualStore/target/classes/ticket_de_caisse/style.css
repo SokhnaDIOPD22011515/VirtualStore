@@ -1,0 +1,15 @@
+#labelBoutique{
+    -fx-background-color: #090909;
+    -fx-text-fill: #fffafa;
+    -fx-alignment: right;
+}
+
+#titrePanier{
+    -fx-background-color: #090909;
+    -fx-text-fill: #fffafa;
+    -fx-alignment: right;
+}
+
+#test{
+    -fx-background-color: #4a4141;
+}
